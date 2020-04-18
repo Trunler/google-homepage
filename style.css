@@ -1,0 +1,105 @@
+
+   
+
+li {
+    display: inline-block;
+  font-size: 70%;
+  text-decoration: none;
+  font: Arial;
+  padding: 16px;
+  
+ 
+}
+li:hover{
+    background-color: yellow;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 27%;
+  }
+ 
+  .moveimage{
+    position:relative; top: 100px;
+  }
+  .lines:hover{
+    background-color:grey;
+  }
+  .button{
+ background-color:rgb(62, 172, 194);
+  font-style: Arial;
+  border-style: none;
+  font-size: 50%;
+  
+
+
+}
+.button:hover{
+    background-color:aquamarine;
+    
+}
+
+form {width: 37%;
+    margin-right: 30%;
+    margin-left: 30%;
+    margin: 100px auto 50px auto;}
+div.mainform{
+    width:100%;
+        border:1px solid lightgrey
+        
+}
+input {
+    width: 90%;
+}
+form.googlesearch button{
+float: right;
+  width: 10%;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; 
+  cursor: pointer;
+}
+span{
+    width: 425px;
+}
+#rightnav{
+    
+ 
+   
+    
+}
+#bton{
+padding: 40px;
+}
+#leftnav{
+    
+    float: left;
+    width: 80%;
+}
+#nav{
+    width: 100%;
+    
+}
+#Goff{
+    font-weight: none;
+    text-align: center;
+    font-size: 80%;
+}
+a{
+    text-decoration: underline;
+    color: blue;
+}
+#Canada{
+    position: relative;
+    bottom:-85px;
+    font-size: 70%;
+    left: 60px;
+    border-bottom: 1px solid #e4e4e4;
+}
+#botnav{
+    position: relative;
+    bottom: -77px;
+}
